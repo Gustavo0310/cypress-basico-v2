@@ -276,10 +276,10 @@ describe('Central de Atendimento ao Cliente TAT', function() { //o texto do "des
 
     //Foi criado um novo script para simular um teste a partir de um dispositivel mobile "cy:open:mobile": "cypress open --config viewportWidth=410 viewportHeight=860".
 
-    //EXERCICIO EXTRA - TA NA CLASSE DE "package.json"
+    //EXERCICIO EXTRA - TA NA CLASSE DE "package.json" 
 
     //Foi criado um novo script para simular um teste a partir de um dispositivel mobile "test:mobile": "cypress run --config viewportWidth=410 viewportHeight=860".
 
-    
+
     
   })
