@@ -26,4 +26,4 @@ Vá para a seção [estrutura do curso](./_course-structure_.md).
 
 ___
 
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+
