@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:open:mobile": "cypress open --config viewportWidth=410 viewportHeight=860",
+    "test": "cypress run",
+    "test:mobile": "cypress run --config viewportWidth=410 viewportHeight=860"
+  },
+  "repository": "https://github.com/Gustavo0310/cypress-basico-v2",
+  "keywords": [
+    "Testing",
+    "Cypress.io",
+    "Talking About Testing",
+    "Cypress Básico",
+    "Escola TAT"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Gustavo0310/cypress-basico-v2",
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-loader": "^9.1.3",
+    "cypress": "^12.2.0"
+  }
+}
